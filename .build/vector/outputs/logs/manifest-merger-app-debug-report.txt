@@ -1,0 +1,1423 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:382:9-390:20
+	android:authorities
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+provider#ms.messageapp.db.VectorContentProvider
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:476:9-479:39
+	android:authorities
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:2:1-19:12
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+MERGED from [io.realm:realm-android-library:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.8.0.aar\bb6a2fe46fc563ab19d6e8c7e0968db3\AndroidManifest.xml:2:1-10:12
+MERGED from [io.realm:realm-android-kotlin-extensions:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-kotlin-extensions-5.8.0.aar\51c7c48ebdfb28365c9c1cf1bab6ecda\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4a11bff96fb4eddda956d46226038d1d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.core:core-ktx:0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\core-ktx-0.3.aar\207a6a1f67ccf057a5c654ccdaae069b\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\anko-commons-0.10.8.aar\cfa77f53d3239f229129b1a93aceedff\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\64df084b87c25cf044eb6b60196df2f1\AndroidManifest.xml:16:1-19:12
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:2:1-35:12
+MERGED from [com.airbnb.android:epoxy:2.19.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\epoxy-2.19.0.aar\ee02969094164fa5c58fb7353fc19d9f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0c3bd050f7b83c33cbd04f7f76497ead\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\6e929552bbbb1375362a5d58a8623489\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\ee112fa7d7b65c5e6fcc67e9f8d15ef5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.chrisbanes:PhotoView:2.1.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.4.aar\f363ee5d725c513037a8fc91e3b8a05c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ae3ae4315af7e0a8b39d82078d60994\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b5868d9875e925a91bd70d62f51ffc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a614fb4545b35b1869d3e0bc79e347f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\65bd0724ac097039780c953d29d2d47b\AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\329da7642725ab7d1d4695d261420711\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\890e5f48211d77e058e4988cac5ac0e5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b57e880983ece94af05c1cacee4c80d7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\50cd2065cce659d6037ba46ff6b854a0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\87bc9767fdb1fbbbfb0f9a00ec9636e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\d20b26284a09a2276fcbd8a1f500e661\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6f31303963b911b1081927df9bd850f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\21b555e5cab897dcc6857769a97409c7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f7965b335d0857c410bbde94b532fbc1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\977b5558d784cce00e60fd862c1d0621\AndroidManifest.xml:2:1-14:12
+MERGED from [com.binaryfork:spanny:1.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\spanny-1.0.4.aar\a7c646be1677035057dbd02735c89423\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.5.0.aar\dcfb9b71ff5c7b7ae72d712d4158b4a5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\21848733a31bba46032f599c68d2d50e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\04b29bc9758161cbc9258dd788af24f8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1f7a7a7d9ded7e6201bb539fcc94cbd9\AndroidManifest.xml:2:1-13:12
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:2:1-32:12
+MERGED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\42b6221e0b4ab5153a21a76c2811ce31\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\baae06b795e37374de219ce7f76da259\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f530c77c9b5e96118fe722bb64d5fb74\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\89e559c35a64a1fac8f2e14e3b941b63\AndroidManifest.xml:1:1-3:12
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:2:1-36:12
+MERGED from [:react-native-background-timer:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-background-timer.aar\01b979e839ebd5ee6f0e0f9ceeb9d9b8\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-immersive:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-immersive.aar\8d45876254d2c1b5e1eefbfc5414ac3f\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake.aar\b517abb7fdc17dfd308deaaf295b64a5\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons.aar\f0548ad4350cd273537418802713fad0\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webrtc:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-webrtc.aar\7c81f6b15f6508bf1de4bfa048edb984\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-locale-detector:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-locale-detector.aar\cba73a9670c3fb257dfc84bf9fca3529\AndroidManifest.xml:2:1-11:12
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:2:1-28:12
+MERGED from [com.marcinmoskala.activitystarter:activitystarter-kotlin:1.11-beta] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\activitystarter-kotlin-1.11-beta.aar\9df0798ce6b2e4b7d6fc938842fe6e9a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\7f97139b5f68e88a284bf351deca970d\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\commons-base-0.10.8.aar\d50c951d37020b852062b9d1b7f9a3a4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bafaadf8c344bad0733b21ad633db16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\90bc765ff0040910fbe75efcd5215d57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43ca95ecf936698b3229c5373b0c13e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b047f5bb1e4be278b5e7527b5046607f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\393be25b429a769a2bcad10902f02115\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a8500a132e04e91cab63c940683f53ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\930d9d8cd28ce336cc4f768e2c3eff26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cee7d50b3029fd890b4f08d1cee7341f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00fbf0590044ced284f7e87575053557\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9f0b65ff443f730d64332dd6e49d49e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\64ac31d7b52b55e05744500b21c0c704\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2072f856da6243e5f69d99e0742a9365\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\48c8eeebf0fc11dd46511eb15d16a67a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\c3f13bb29e2c56030a43a61d6a0213bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\b4ac06696d3e1820c7eedded316a439a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\b10e55c300353661249763604e1db971\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\8b5d118c3d12c744df033b6fe6933147\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\a5154bef641bbf25494644767ae6baf8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\a7df018c374d45f33e2262ec7e7e0f44\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\73f593bf73bc215496e78de41c66fb13\AndroidManifest.xml:2:1-9:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:3:5-51
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:1-482:12
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:5:5-35
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:23:5-67
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:13:5-67
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:13:5-67
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:12:5-67
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:12:5-67
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:12:5-67
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:8:5-66
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:14:5-66
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:9:5-80
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:15:5-80
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:10:5-72
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:16:5-72
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:11:5-81
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:17:5-81
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:22:5-79
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:12:5-79
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:12:5-79
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:9:5-79
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:9:5-79
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:13:5-79
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:13:5-15:47
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:18:5-20:47
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:18:5-20:47
+	tools:ignore
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:14:9-52
+uses-permission#android.permission.REORDER_TASKS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:16:5-72
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:21:5-72
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.CAMERA
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:18:5-65
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:11:5-65
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:19:5-71
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:14:5-71
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:20:5-80
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:13:5-80
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:21:5-23:47
+	tools:ignore
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:22:9-57
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:25:5-27:47
+	tools:ignore
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:27:9-44
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:26:9-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:28:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:24:5-68
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:16:5-68
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:29:5-81
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:30:5-95
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:30:22-92
+uses-feature#android.hardware.camera
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:32:5-35:36
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:22:5-24:36
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:34:9-33
+		REJECTED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:24:9-33
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:33:9-47
+uses-feature#android.hardware.camera.any
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:36:5-39:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:38:9-33
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:37:9-51
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:40:5-43:36
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:25:5-27:36
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:42:9-33
+		REJECTED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:27:9-33
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:41:9-57
+uses-feature#0x00020000
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:44:5-47:36
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:19:5-21:35
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:45:9-41
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:46:9-33
+		REJECTED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:21:9-32
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:47:9-33
+uses-feature#android.hardware.microphone
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:48:5-51:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:50:9-33
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:49:9-51
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:53:5-86
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:19:5-86
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:53:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:54:5-87
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:20:5-87
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:54:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:55:5-81
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:23:5-81
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:55:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:56:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:24:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:56:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:57:5-88
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:27:5-88
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:57:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:58:5-92
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:58:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:59:5-84
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:30:5-84
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:59:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:60:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:33:5-83
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:60:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:61:5-91
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:61:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:62:5-92
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:62:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:63:5-93
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:63:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:64:5-73
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:64:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:65:5-82
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:65:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:66:5-83
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:66:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:67:5-88
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:67:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:68:5-89
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:68:22-86
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:69:5-74
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:24:5-74
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:69:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:70:5-68
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:25:5-68
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:25:5-68
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:10:5-68
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:70:22-65
+uses-feature#android.hardware.bluetooth
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:72:5-75:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:74:9-33
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:75:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:73:9-50
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:76:5-78
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:15:5-78
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:15:5-78
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:11:5-78
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:76:22-75
+uses-feature#android.hardware.telephony
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:78:5-80:36
+	android:required
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:80:9-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:79:9-50
+application
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:82:5-480:19
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:4:5-17:19
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:4:5-17:19
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:82:5-480:19
+MERGED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:82:5-480:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4a11bff96fb4eddda956d46226038d1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4a11bff96fb4eddda956d46226038d1d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:22:5-35:19
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\anko-commons-0.10.8.aar\cfa77f53d3239f229129b1a93aceedff\AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\anko-commons-0.10.8.aar\cfa77f53d3239f229129b1a93aceedff\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:epoxy:2.19.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\epoxy-2.19.0.aar\ee02969094164fa5c58fb7353fc19d9f\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:epoxy:2.19.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\epoxy-2.19.0.aar\ee02969094164fa5c58fb7353fc19d9f\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\329da7642725ab7d1d4695d261420711\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\329da7642725ab7d1d4695d261420711\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\890e5f48211d77e058e4988cac5ac0e5\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\890e5f48211d77e058e4988cac5ac0e5\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b57e880983ece94af05c1cacee4c80d7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b57e880983ece94af05c1cacee4c80d7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\50cd2065cce659d6037ba46ff6b854a0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\50cd2065cce659d6037ba46ff6b854a0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\87bc9767fdb1fbbbfb0f9a00ec9636e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\87bc9767fdb1fbbbfb0f9a00ec9636e8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\d20b26284a09a2276fcbd8a1f500e661\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\d20b26284a09a2276fcbd8a1f500e661\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\21b555e5cab897dcc6857769a97409c7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\21b555e5cab897dcc6857769a97409c7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f7965b335d0857c410bbde94b532fbc1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f7965b335d0857c410bbde94b532fbc1\AndroidManifest.xml:9:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\977b5558d784cce00e60fd862c1d0621\AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\977b5558d784cce00e60fd862c1d0621\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.5.0.aar\dcfb9b71ff5c7b7ae72d712d4158b4a5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.5.0.aar\dcfb9b71ff5c7b7ae72d712d4158b4a5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\04b29bc9758161cbc9258dd788af24f8\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\04b29bc9758161cbc9258dd788af24f8\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1f7a7a7d9ded7e6201bb539fcc94cbd9\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1f7a7a7d9ded7e6201bb539fcc94cbd9\AndroidManifest.xml:11:5-20
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:28:5-30:19
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:28:5-30:19
+MERGED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:11:5-14:19
+MERGED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:11:5-14:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f530c77c9b5e96118fe722bb64d5fb74\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f530c77c9b5e96118fe722bb64d5fb74\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\89e559c35a64a1fac8f2e14e3b941b63\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\89e559c35a64a1fac8f2e14e3b941b63\AndroidManifest.xml:2:3-17
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:29:5-34:19
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:29:5-34:19
+MERGED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:13:5-20
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:13:5-20
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:15:5-26:19
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:15:5-26:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\c3f13bb29e2c56030a43a61d6a0213bb\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\c3f13bb29e2c56030a43a61d6a0213bb\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\a7df018c374d45f33e2262ec7e7e0f44\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\a7df018c374d45f33e2262ec7e7e0f44\AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\73f593bf73bc215496e78de41c66fb13\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\73f593bf73bc215496e78de41c66fb13\AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:91:9-35
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:91:9-35
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:87:9-46
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:87:9-46
+		REJECTED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:13:9-41
+		REJECTED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:31:9-41
+		REJECTED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:11:18-50
+	android:resizeableActivity
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:89:9-42
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:89:9-42
+	android:roundIcon
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:90:9-54
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:90:9-54
+	android:largeHeap
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:88:9-33
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:88:9-33
+	android:icon
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:86:9-43
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:86:9-43
+	android:allowBackup
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:84:9-36
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:84:9-36
+		REJECTED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:12:9-35
+		REJECTED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:30:9-35
+	android:description
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:85:9-62
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:85:9-62
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:92:9-46
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:92:9-46
+	tools:replace
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:93:9-42
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:93:9-42
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:83:9-34
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:83:9-34
+activity#ms.messageapp.activity.server
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:94:9-62
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:94:19-50
+activity#ms.messageapp.activity.gfgfgf
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:95:9-53
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:95:19-50
+meta-data#android.max_aspect
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:96:9-98:35
+	android:value
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:98:13-32
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:97:13-46
+activity#ms.messageapp.activity.LauncherActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:99:9-107:20
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:101:13-53
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:100:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:102:13-106:29
+action#android.intent.action.MAIN
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:103:17-69
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:103:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:105:17-77
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:105:27-74
+activity#ms.messageapp.activity.LoginActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:108:9-111:70
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:111:13-67
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:110:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:109:13-51
+activity#ms.messageapp.activity.AccountCreationCaptchaActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:112:9-115:54
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:115:13-51
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:114:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:113:13-68
+activity#ms.messageapp.activity.policies.AccountCreationTermsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:116:9-119:54
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:119:13-51
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:118:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:117:13-75
+activity#ms.messageapp.activity.FallbackAuthenticationActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:120:9-123:45
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:123:13-42
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:122:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:121:13-68
+activity#ms.messageapp.activity.SplashActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:124:9-126:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:126:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:125:13-52
+activity#ms.messageapp.activity.LoggingOutActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:127:9-129:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:129:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:128:13-56
+activity#ms.messageapp.activity.VectorHomeActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:130:9-135:55
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:133:13-56
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:135:13-52
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:132:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:134:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:131:13-56
+activity#ms.messageapp.activity.HistoricalRoomsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:136:9-142:55
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:140:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:139:13-62
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:142:13-52
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:138:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:141:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:137:13-61
+activity#ms.messageapp.activity.VectorRoomActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:143:9-147:70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:146:13-56
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:147:13-67
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:145:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:144:13-56
+activity#ms.messageapp.activity.DeactivateAccountActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:148:9-72
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:148:19-69
+activity#ms.messageapp.activity.VectorRoomCreationActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:149:9-159:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:154:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:152:13-56
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:153:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:155:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:151:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:150:13-64
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:156:13-158:77
+	android:value
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:158:17-74
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:157:17-63
+activity#ms.messageapp.activity.VectorRoomDetailsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:160:9-170:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:165:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:163:13-55
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:164:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:166:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:162:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:161:13-63
+activity#ms.messageapp.activity.VectorSettingsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:171:9-180:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:175:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:174:13-60
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:176:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:173:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:172:13-60
+activity#ms.messageapp.activity.VectorMemberDetailsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:181:9-189:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:185:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:184:13-66
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:183:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:182:13-65
+activity#ms.messageapp.activity.VectorAvatarViewerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:190:9-73
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:190:19-70
+activity#ms.messageapp.activity.LockScreenActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:191:9-198:62
+	android:clearTaskOnLaunch
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:193:13-45
+	android:excludeFromRecents
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:195:13-46
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:196:13-43
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:194:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:198:13-59
+	android:taskAffinity
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:197:13-36
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:192:13-56
+activity#ms.messageapp.activity.JoinRoomActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:199:9-206:67
+	android:clearTaskOnLaunch
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:201:13-45
+	android:excludeFromRecents
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:203:13-46
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:204:13-43
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:202:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:206:13-64
+	android:taskAffinity
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:205:13-36
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:200:13-54
+activity#ms.messageapp.activity.VectorMediaViewerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:207:9-217:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:212:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:210:13-39
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:211:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:213:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:209:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:208:13-63
+activity#ms.messageapp.activity.VectorCallViewActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:218:9-221:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:220:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:221:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:219:13-60
+activity#ms.messageapp.activity.JitsiCallActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:222:9-225:76
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:224:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:225:13-73
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:223:13-55
+activity#ms.messageapp.activity.WidgetActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:226:9-229:76
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:228:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:229:13-73
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:227:13-52
+activity#ms.messageapp.activity.IntegrationManagerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:230:9-232:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:232:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:231:13-64
+activity#ms.messageapp.activity.StickerPickerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:233:9-235:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:235:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:234:13-59
+activity#ms.messageapp.activity.VectorMediaPickerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:236:9-246:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:240:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:238:13-68
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:239:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:242:13-54
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:241:13-73
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:237:13-63
+activity#ms.messageapp.activity.VectorPublicRoomsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:247:9-257:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:252:13-79
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:250:13-52
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:251:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:253:13-54
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:249:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:248:13-63
+activity#ms.messageapp.activity.VectorUnifiedSearchActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:258:9-269:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:263:13-70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:261:13-44
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:262:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:265:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:260:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:264:13-58
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:259:13-65
+activity#ms.messageapp.activity.VectorRoomInviteMembersActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:270:9-280:20
+	android:parentActivityName
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:275:13-77
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:273:13-44
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:274:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:276:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:272:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:271:13-69
+activity#ms.messageapp.activity.BugReportActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:281:9-285:70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:284:13-62
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:285:13-67
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:283:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:282:13-55
+activity#ms.messageapp.activity.VectorGroupDetailsActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:286:9-292:58
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:289:13-65
+	android:launchMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:290:13-43
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:292:13-55
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:288:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:291:13-55
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:287:13-64
+activity#ms.messageapp.activity.VectorUniversalLinkActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:293:9-336:20
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:293:19-71
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:vector.im+data:pathPrefix:/_matrix/+data:pathPrefix:/app/+data:pathPrefix:/beta/+data:pathPrefix:/develop/+data:pathPrefix:/staging/+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:294:13-309:29
+action#android.intent.action.VIEW
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:295:17-69
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:295:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:297:17-76
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:297:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:298:17-78
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:298:27-75
+data
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:300:17-47
+	android:scheme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:300:23-44
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:riot.im+data:pathPrefix:/_matrix/+data:pathPrefix:/app/+data:pathPrefix:/beta/+data:pathPrefix:/develop/+data:pathPrefix:/staging/+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:310:13-325:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:matrix.to+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:326:13-335:29
+activity#ms.messageapp.activity.VectorFakeRoomPreviewActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:337:9-339:66
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:339:13-63
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:338:13-67
+activity#ms.messageapp.activity.PhoneNumberAdditionActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:340:9-343:65
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:343:13-62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:342:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:341:13-65
+activity#ms.messageapp.activity.CountryPickerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:344:9-348:63
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:347:13-60
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:346:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:348:13-60
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:345:13-59
+activity#ms.messageapp.activity.LanguagePickerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:349:9-353:63
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:352:13-61
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:351:13-59
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:353:13-60
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:350:13-60
+activity#ms.messageapp.activity.RoomDirectoryPickerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:354:9-357:61
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:357:13-58
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:356:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:355:13-65
+activity#ms.messageapp.activity.PhoneNumberVerificationActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:358:9-361:74
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:361:13-71
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:360:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:359:13-69
+activity#ms.messageapp.activity.NotificationPrivacyActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:362:9-365:69
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:365:13-66
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:364:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:363:13-65
+activity#ms.messageapp.activity.VectorWebViewActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:366:9-68
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:366:19-65
+activity#ms.messageapp.activity.MediaPreviewerActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:367:9-369:62
+	android:configChanges
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:369:13-59
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:368:13-60
+activity#ms.messageapp.activity.KeysBackupSetupActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:370:9-373:70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:372:13-69
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:373:13-67
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:371:13-61
+activity#ms.messageapp.activity.KeysBackupRestoreActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:374:9-377:70
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:376:13-71
+	android:windowSoftInputMode
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:377:13-67
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:375:13-63
+activity#ms.messageapp.activity.KeysBackupManageActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:378:9-380:67
+	android:label
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:380:13-64
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:379:13-62
+activity#ms.messageapp.activity.DebugMenuActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:381:9-64
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:381:19-61
+receiver#ms.messageapp.receiver.VectorUniversalLinkReceiver
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:391:9-426:20
+	android:exported
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:393:13-37
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:392:13-65
+intent-filter#action:name:ms.messageapp.receiver.UNIVERSAL_LINK+data:host:vector.im+data:pathPrefix:/app/+data:pathPrefix:/beta/+data:pathPrefix:/develop/+data:pathPrefix:/staging/+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:394:13-404:29
+action#ms.messageapp.receiver.UNIVERSAL_LINK
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:395:17-80
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:395:25-77
+intent-filter#action:name:ms.messageapp.receiver.UNIVERSAL_LINK+data:host:riot.im+data:pathPrefix:/app/+data:pathPrefix:/beta/+data:pathPrefix:/develop/+data:pathPrefix:/staging/+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:405:13-415:29
+intent-filter#action:name:ms.messageapp.receiver.UNIVERSAL_LINK+data:host:matrix.to+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:416:13-422:29
+intent-filter#action:name:ms.messageapp.receiver.UNIVERSAL_LINK_RESUME
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:423:13-425:29
+action#ms.messageapp.receiver.UNIVERSAL_LINK_RESUME
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:424:17-87
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:424:25-84
+receiver#ms.messageapp.receiver.VectorRegistrationReceiver
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:427:9-439:20
+	android:exported
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:429:13-37
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:428:13-64
+intent-filter#action:name:ms.messageapp.receiver.BROADCAST_ACTION_REGISTRATION+data:host:vector.im+data:pathPrefix:/_matrix/+data:scheme:http+data:scheme:https
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:430:13-438:29
+action#ms.messageapp.receiver.BROADCAST_ACTION_REGISTRATION
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:431:17-95
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:431:25-92
+receiver#ms.messageapp.receiver.VectorBootReceiver
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:440:9-445:20
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:440:19-62
+intent-filter#action:name:android.intent.action.ACTION_BOOT_COMPLETED+action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:441:13-444:29
+action#android.intent.action.ACTION_BOOT_COMPLETED
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:442:17-86
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:442:25-83
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:443:17-79
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:443:25-76
+receiver#ms.messageapp.receiver.DismissNotificationReceiver
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:446:9-74
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:446:19-71
+receiver#ms.messageapp.receiver.VectorReferrerReceiver
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:447:9-454:20
+	android:enabled
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:449:13-35
+	android:exported
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:450:13-36
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:448:13-60
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:451:13-453:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:452:17-79
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:452:25-76
+activity#ms.messageapp.activity.VectorSharedFilesActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:455:9-472:20
+	android:theme
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:457:13-63
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:456:13-63
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:458:13-464:29
+action#android.intent.action.SEND
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:459:17-69
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:459:25-66
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:465:13-471:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:466:17-78
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:466:25-75
+service#ms.messageapp.services.EventStreamService
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:474:9-64
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml:474:18-61
+uses-sdk
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.8.0.aar\bb6a2fe46fc563ab19d6e8c7e0968db3\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-library-5.8.0.aar\bb6a2fe46fc563ab19d6e8c7e0968db3\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-kotlin-extensions-5.8.0.aar\51c7c48ebdfb28365c9c1cf1bab6ecda\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions:5.8.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\realm-android-kotlin-extensions-5.8.0.aar\51c7c48ebdfb28365c9c1cf1bab6ecda\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4a11bff96fb4eddda956d46226038d1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4a11bff96fb4eddda956d46226038d1d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\core-ktx-0.3.aar\207a6a1f67ccf057a5c654ccdaae069b\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\core-ktx-0.3.aar\207a6a1f67ccf057a5c654ccdaae069b\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\anko-commons-0.10.8.aar\cfa77f53d3239f229129b1a93aceedff\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\anko-commons-0.10.8.aar\cfa77f53d3239f229129b1a93aceedff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\64df084b87c25cf044eb6b60196df2f1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\multidex-1.0.0.aar\64df084b87c25cf044eb6b60196df2f1\AndroidManifest.xml:18:5-42
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.2.aar\9948320d0f25b21ac0fbdeb076e9a356\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:epoxy:2.19.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\epoxy-2.19.0.aar\ee02969094164fa5c58fb7353fc19d9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:epoxy:2.19.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\epoxy-2.19.0.aar\ee02969094164fa5c58fb7353fc19d9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0c3bd050f7b83c33cbd04f7f76497ead\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0c3bd050f7b83c33cbd04f7f76497ead\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\6e929552bbbb1375362a5d58a8623489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\6e929552bbbb1375362a5d58a8623489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\ee112fa7d7b65c5e6fcc67e9f8d15ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\ee112fa7d7b65c5e6fcc67e9f8d15ef5\AndroidManifest.xml:20:5-44
+MERGED from [com.github.chrisbanes:PhotoView:2.1.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.4.aar\f363ee5d725c513037a8fc91e3b8a05c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\PhotoView-2.1.4.aar\f363ee5d725c513037a8fc91e3b8a05c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ae3ae4315af7e0a8b39d82078d60994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7ae3ae4315af7e0a8b39d82078d60994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b5868d9875e925a91bd70d62f51ffc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9b5868d9875e925a91bd70d62f51ffc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a614fb4545b35b1869d3e0bc79e347f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a614fb4545b35b1869d3e0bc79e347f6\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\65bd0724ac097039780c953d29d2d47b\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\65bd0724ac097039780c953d29d2d47b\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\329da7642725ab7d1d4695d261420711\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.2.aar\329da7642725ab7d1d4695d261420711\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\890e5f48211d77e058e4988cac5ac0e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\890e5f48211d77e058e4988cac5ac0e5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b57e880983ece94af05c1cacee4c80d7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b57e880983ece94af05c1cacee4c80d7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\50cd2065cce659d6037ba46ff6b854a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\50cd2065cce659d6037ba46ff6b854a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\87bc9767fdb1fbbbfb0f9a00ec9636e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\87bc9767fdb1fbbbfb0f9a00ec9636e8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\d20b26284a09a2276fcbd8a1f500e661\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\d20b26284a09a2276fcbd8a1f500e661\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6f31303963b911b1081927df9bd850f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6f31303963b911b1081927df9bd850f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\21b555e5cab897dcc6857769a97409c7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\21b555e5cab897dcc6857769a97409c7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f7965b335d0857c410bbde94b532fbc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f7965b335d0857c410bbde94b532fbc1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\977b5558d784cce00e60fd862c1d0621\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\977b5558d784cce00e60fd862c1d0621\AndroidManifest.xml:8:5-10:41
+MERGED from [com.binaryfork:spanny:1.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\spanny-1.0.4.aar\a7c646be1677035057dbd02735c89423\AndroidManifest.xml:7:5-9:41
+MERGED from [com.binaryfork:spanny:1.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\spanny-1.0.4.aar\a7c646be1677035057dbd02735c89423\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.5.0.aar\dcfb9b71ff5c7b7ae72d712d4158b4a5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-okhttp3-1.5.0.aar\dcfb9b71ff5c7b7ae72d712d4158b4a5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\21848733a31bba46032f599c68d2d50e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\21848733a31bba46032f599c68d2d50e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\04b29bc9758161cbc9258dd788af24f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\04b29bc9758161cbc9258dd788af24f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1f7a7a7d9ded7e6201bb539fcc94cbd9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\1f7a7a7d9ded7e6201bb539fcc94cbd9\AndroidManifest.xml:7:5-9:41
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:8:5-10:41
+MERGED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:8:5-10:41
+MERGED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:7:5-9:41
+MERGED from [:olm-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\olm-sdk.aar\c72e3a92ba0eb5d9246ba4f81d097f6f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\42b6221e0b4ab5153a21a76c2811ce31\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\42b6221e0b4ab5153a21a76c2811ce31\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\baae06b795e37374de219ce7f76da259\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\baae06b795e37374de219ce7f76da259\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f530c77c9b5e96118fe722bb64d5fb74\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\f530c77c9b5e96118fe722bb64d5fb74\AndroidManifest.xml:2:3-70
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:5:5-7:41
+MERGED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-background-timer.aar\01b979e839ebd5ee6f0e0f9ceeb9d9b8\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-background-timer.aar\01b979e839ebd5ee6f0e0f9ceeb9d9b8\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-fetch-blob.aar\a44d9efd9546786461065ca3bf90fc76\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-immersive.aar\8d45876254d2c1b5e1eefbfc5414ac3f\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-immersive.aar\8d45876254d2c1b5e1eefbfc5414ac3f\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake.aar\b517abb7fdc17dfd308deaaf295b64a5\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-keep-awake.aar\b517abb7fdc17dfd308deaaf295b64a5\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons.aar\f0548ad4350cd273537418802713fad0\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-vector-icons.aar\f0548ad4350cd273537418802713fad0\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-webrtc.aar\7c81f6b15f6508bf1de4bfa048edb984\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-webrtc.aar\7c81f6b15f6508bf1de4bfa048edb984\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native.aar\696a5291b14c17c225add0a26da6c1be\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-locale-detector.aar\cba73a9670c3fb257dfc84bf9fca3529\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\react-native-locale-detector.aar\cba73a9670c3fb257dfc84bf9fca3529\AndroidManifest.xml:7:5-9:41
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:7:5-10:46
+MERGED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:7:5-10:46
+MERGED from [com.marcinmoskala.activitystarter:activitystarter-kotlin:1.11-beta] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\activitystarter-kotlin-1.11-beta.aar\9df0798ce6b2e4b7d6fc938842fe6e9a\AndroidManifest.xml:6:5-43
+MERGED from [com.marcinmoskala.activitystarter:activitystarter-kotlin:1.11-beta] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\activitystarter-kotlin-1.11-beta.aar\9df0798ce6b2e4b7d6fc938842fe6e9a\AndroidManifest.xml:6:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\7f97139b5f68e88a284bf351deca970d\AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\relinker-1.3.0.aar\7f97139b5f68e88a284bf351deca970d\AndroidManifest.xml:5:5-43
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\commons-base-0.10.8.aar\d50c951d37020b852062b9d1b7f9a3a4\AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\commons-base-0.10.8.aar\d50c951d37020b852062b9d1b7f9a3a4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bafaadf8c344bad0733b21ad633db16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2bafaadf8c344bad0733b21ad633db16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\90bc765ff0040910fbe75efcd5215d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\90bc765ff0040910fbe75efcd5215d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43ca95ecf936698b3229c5373b0c13e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43ca95ecf936698b3229c5373b0c13e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b047f5bb1e4be278b5e7527b5046607f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b047f5bb1e4be278b5e7527b5046607f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\393be25b429a769a2bcad10902f02115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\393be25b429a769a2bcad10902f02115\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a8500a132e04e91cab63c940683f53ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a8500a132e04e91cab63c940683f53ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\930d9d8cd28ce336cc4f768e2c3eff26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\930d9d8cd28ce336cc4f768e2c3eff26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cee7d50b3029fd890b4f08d1cee7341f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cee7d50b3029fd890b4f08d1cee7341f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00fbf0590044ced284f7e87575053557\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\00fbf0590044ced284f7e87575053557\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9f0b65ff443f730d64332dd6e49d49e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9f0b65ff443f730d64332dd6e49d49e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\64ac31d7b52b55e05744500b21c0c704\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\64ac31d7b52b55e05744500b21c0c704\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2072f856da6243e5f69d99e0742a9365\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2072f856da6243e5f69d99e0742a9365\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\48c8eeebf0fc11dd46511eb15d16a67a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\48c8eeebf0fc11dd46511eb15d16a67a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\c3f13bb29e2c56030a43a61d6a0213bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\c3f13bb29e2c56030a43a61d6a0213bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\b4ac06696d3e1820c7eedded316a439a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\b4ac06696d3e1820c7eedded316a439a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\b10e55c300353661249763604e1db971\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\b10e55c300353661249763604e1db971\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\8b5d118c3d12c744df033b6fe6933147\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\8b5d118c3d12c744df033b6fe6933147\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\a5154bef641bbf25494644767ae6baf8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\a5154bef641bbf25494644767ae6baf8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\a7df018c374d45f33e2262ec7e7e0f44\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\a7df018c374d45f33e2262ec7e7e0f44\AndroidManifest.xml:6:5-43
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\73f593bf73bc215496e78de41c66fb13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\73f593bf73bc215496e78de41c66fb13\AndroidManifest.xml:5:5-44
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:10:9-43
+	android:targetSdkVersion
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\main\AndroidManifest.xml
+		INJECTED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml
+activity#ms.messageapp.activity.TestLinkifyActivity
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:5:9-79
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:5:19-76
+meta-data#firebase_analytics_collection_deactivated
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:7:9-9:36
+	android:value
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:9:13-33
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:8:13-69
+service#ms.messageapp.push.fcm.VectorFirebaseMessagingService
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:11:9-15:19
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:11:18-86
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:12:13-14:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:13:17-78
+	android:name
+		ADDED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\app\AndroidManifest.xml:13:25-75
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\d54280f3393a907a0e5684f5b34005c1\AndroidManifest.xml:29:13-82
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\ba517d77811d2e84d2c0c549774b84c2\AndroidManifest.xml:24:13-83
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.2.aar\2644e39a4282fe35836f8ce1b8cc6e36\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.2.aar\3cefe8d942822df330e3f1051b356494\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.4.aar\021c91d278849f4c7cb8b19051677562\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\fa1da3be2197eb7bd7387c694b6980e9\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\41883ce5d637845c803f201d3d8223ac\AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\077bd50995ca0d50ee22273e0221a269\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\b2cc8da1f2305da9e5c6b216dd98c321\AndroidManifest.xml:24:13-58
+receiver#org.matrix.androidsdk.sync.EventsThread$SyncDelayReceiver
+ADDED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:29:9-94
+	android:name
+		ADDED from [:matrix-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\matrix-sdk.aar\43b12137dfd19a69dfe8b417149959eb\AndroidManifest.xml:29:19-91
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\wafaaa\riot-android-develop (1)\riot-android-develop\vector\src\debug\AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:17:22-73
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from [:jitsi-sdk:] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\jitsi-sdk.aar\08ab5e52b64312fcb622af811f73885d\AndroidManifest.xml:33:19-83
+receiver#org.piwik.sdk.extra.InstallReferrerReceiver
+ADDED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:20:13-36
+	tools:ignore
+		ADDED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from [org.piwik.sdk:piwik-sdk:2.0.0] C:\Users\eng wafaa\.gradle\caches\transforms-1\files-1.1\piwik-sdk-2.0.0.aar\bccda2ab69c2ceccd347fef1c580e51d\AndroidManifest.xml:19:13-71

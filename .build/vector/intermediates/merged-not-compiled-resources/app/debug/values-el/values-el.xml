@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="active_widgets">
+        <item quantity="one">1 ενεργό widget</item>
+        <item quantity="other">%d ενεργά widget</item>
+    </plurals>
+    <plurals name="group_members">
+        <item quantity="one">1 μέλος</item>
+        <item quantity="other">%d μέλη</item>
+    </plurals>
+    <plurals name="group_rooms">
+        <item quantity="one">1 δωμάτιο</item>
+        <item quantity="other">%d δωμάτια</item>
+    </plurals>
+    <plurals name="notification_unread_notified_messages_in_room_rooms">
+        <item quantity="one">1 δωμάτιο</item>
+        <item quantity="other">%d δωμάτια</item>
+    </plurals>
+    <plurals name="public_room_nb_users">
+        <item quantity="one">1 χρήστης</item>
+        <item quantity="other">%d χρήστες</item>
+    </plurals>
+    <plurals name="room_displayname_three_and_more_members">
+        <item quantity="one">%1$s και 1 ακόμα</item>
+        <item quantity="other">%1$s και %2$d ακόμα</item>
+    </plurals>
+    <string name="_continue">Συνέχεια</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="accept">Αποδοχή</string>
+    <string name="account_additional_info">Επιπλέον πληροφορίες: %s</string>
+    <string name="account_phone_number_already_used_error">Αυτός ο αριθμός τηλεφώνου χρησιμοποιείται ήδη.</string>
+    <string name="action_close">Κλείσιμο</string>
+    <string name="action_exit">Έξοδος</string>
+    <string name="action_global_search">Γενική αναζήτηση</string>
+    <string name="action_mark_all_as_read">Σημείωση όλων ως αναγνωσμένων</string>
+    <string name="action_open">Άνοιγμα</string>
+    <string name="action_quick_reply">Γρήγορη απάντηση</string>
+    <string name="action_sign_out">Αποσύνδεση</string>
+    <string name="action_video_call">Κλήση βίντεο</string>
+    <string name="action_voice_call">Κλήση ήχου</string>
+    <string name="actions">Ενέργειες</string>
+    <string name="active_call">Ενεργή κλήση</string>
+    <string name="attachment_remaining_time_minutes">%1$dλ %2$dδ</string>
+    <string name="attachment_remaining_time_seconds">%d δ</string>
+    <string name="black_them">Μαύρο θέμα</string>
+    <string name="bottom_action_favourites">Αγαπημένα</string>
+    <string name="bottom_action_groups">Κοινότητες</string>
+    <string name="bottom_action_home">Αρχική</string>
+    <string name="bottom_action_people">Άτομα</string>
+    <string name="bottom_action_rooms">Δωμάτια</string>
+    <string name="call">Κλήση</string>
+    <string name="call_in_progress">Κλήση σε εξέλιξη…</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="cannot_start_call">Η κλήση δεν ήταν δυνατή, παρακαλώ δοκιμάστε αργότερα</string>
+    <string name="command_error">Σφάλμα εντολής</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ενεργοποίηση"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Εγκατάσταση"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν μπορεί να εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από τη συσκευή σας."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Διαθεσιμότητα υπηρεσιών Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Σφάλμα Υπηρεσιών Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Ενημέρωση"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Άνοιγμα σε τηλέφωνο"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Σύνδεση"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Συνδεθείτε με το Google"</string>
+    <string name="community_id">Αναγνωριστικό κοινότητας</string>
+    <string name="community_id_hint">παράδειγμα</string>
+    <string name="community_name">Όνομα κοινότητας</string>
+    <string name="community_name_hint">Παράδειγμα</string>
+    <string name="compression_opt_list_large">Μεγάλο</string>
+    <string name="compression_opt_list_medium">Μεσαίο</string>
+    <string name="compression_opt_list_original">Πρωτότυπο</string>
+    <string name="compression_opt_list_small">Μικρό</string>
+    <string name="compression_options">"Αποστολή ως "</string>
+    <string name="conference_call_warning_title">Προσοχή!</string>
+    <string name="copy">Αντιγραφή</string>
+    <string name="create">Δημιουργία</string>
+    <string name="create_account">Εγγραφή</string>
+    <string name="create_community">Δημιουργία κοινότητας</string>
+    <string name="dark_theme">Σκουρόχρωμο θέμα</string>
+    <string name="deactivate_account_prompt_password">Για να συνεχίσετε παρακαλώ εισάγετε τον κωδικό σας:</string>
+    <string name="deactivate_account_submit">Απενεργοποίηση λογαριασμού</string>
+    <string name="deactivate_account_title">Απενεργοποίηση λογαριασμού</string>
+    <string name="delete">Διαγαρφή</string>
+    <string name="device_information">Πληροφορίες συσκευής</string>
+    <string name="devices_delete_pswd">Κωδικός:</string>
+    <string name="devices_delete_submit_button_label">Υποβολή</string>
+    <string name="devices_details_device_name">Όνομα συσκευής</string>
+    <string name="devices_details_dialog_title">Λεπτομέρειες συσκευής</string>
+    <string name="devices_details_id_title">Αναγνωριστικό</string>
+    <string name="devices_details_last_seen_format">%1$s @ %2$s</string>
+    <string name="devices_details_name_title">Όνομα</string>
+    <string name="dialog_title_confirmation">Επιβεβαίωση</string>
+    <string name="dialog_title_error">Σφάλμα</string>
+    <string name="dialog_title_third_party_licences">Άδειες τρίτων</string>
+    <string name="dialog_title_warning">Προειδοποίηση</string>
+    <string name="direct_chats_header">Συζητήσεις</string>
+    <string name="directory_server_all_rooms_on_server">Όλα τα δωμάτια στον διακομιστή %s</string>
+    <string name="directory_server_fail_to_retrieve_server">Ο διακομιστής είναι μη διαθέσιμος ή υπερφορτωμένος</string>
+    <string name="directory_title">Ευρετήριο</string>
+    <string name="disable">Απενεργοποίηση</string>
+    <string name="encrypted_message">Κρυπτογραφημένο μήνυμα</string>
+    <string name="encryption_export_export">Εξαγωγή</string>
+    <string name="encryption_import_import">Εισαγωγή</string>
+    <string name="encryption_information_algorithm">Αλγόριθμος</string>
+    <string name="encryption_information_decryption_error">Σφάλμα αποκρυπτογράφησης</string>
+    <string name="encryption_information_device_id">Αναγνωριστικό συσκευής</string>
+    <string name="encryption_information_device_name">Όνομα συσκευής</string>
+    <string name="encryption_information_name">Όνομα</string>
+    <string name="encryption_information_sender_device_information">Πληροφορίες συσκευής αποστολέα</string>
+    <string name="encryption_information_unknown_device">άγνωστη συσκευή</string>
+    <string name="error_empty_field_your_password">Παρακαλώ εισάγετε τον κωδικό σας.</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Διάφορα"</string>
+    <string name="font_size">Μέγεθος γραμματοσειράς</string>
+    <string name="forward">Μπροστά</string>
+    <string name="generic_label">%1$s :</string>
+    <string name="generic_label_and_value">%1$s: %2$s</string>
+    <string name="group_details_home">Αρχική</string>
+    <string name="group_details_rooms">Δωμάτια</string>
+    <string name="groups_header">Κοινότητες</string>
+    <string name="groups_invite_header">Πρόσκληση</string>
+    <string name="groups_list">Λίστα Ομάδων</string>
+    <string name="home_filter_placeholder_favorites">Αναζήτηση στα αγαπημένα</string>
+    <string name="home_filter_placeholder_groups">Αναζήτηση στις κοινότητες</string>
+    <string name="home_filter_placeholder_home">Αναζήτηση στα δωμάτια</string>
+    <string name="home_filter_placeholder_people">Αναζήτηση ατόμων</string>
+    <string name="home_filter_placeholder_rooms">Αναζήτηση για δωμάτια</string>
+    <string name="huge">Τεράστιο</string>
+    <string name="incoming_call">Εισερχόμενη κλήση</string>
+    <string name="incoming_video_call">Εισερχόμενη κλήση βίντεο</string>
+    <string name="incoming_voice_call">Εισερχόμενη κλήση ήχου</string>
+    <string name="invitations_header">Προσκλήσεις</string>
+    <string name="invite">Πρόσκληση</string>
+    <string name="large">Μεγάλο</string>
+    <string name="later">Αργότερα</string>
+    <string name="leave">Αποχώρηση</string>
+    <string name="light_theme">Ανοιχτόχρωμο θέμα</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="login">Σύνδεση</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="low_priority_header">Χαμηλής προτεραιότητας</string>
+    <string name="matrix_error">Σφάλμα του Matrix</string>
+    <string name="matrix_only_filter">Μόνο οι επαφές Matrix</string>
+    <string name="media_saving_period_1_month">1 μήνας</string>
+    <string name="media_saving_period_1_week">1 βδομάδα</string>
+    <string name="media_saving_period_3_days">3 μέρες</string>
+    <string name="media_saving_period_forever">Για πάντα</string>
+    <string name="media_slider_saved">Αποθηκεύτηκε</string>
+    <string name="medium_email">Ηλεκτρονική διεύθυνση</string>
+    <string name="medium_phone_number">Αριθμός τηλεφώνου</string>
+    <string name="message_failed_to_upload">Αποτυχία αναφόρτωσης εικόνας</string>
+    <string name="message_reply_to_prefix">Προς απάντηση στο</string>
+    <string name="missing_permissions_error">Αυτή η ενέργεια δεν είναι δυνατή λόγω ελλιπών δικαιωμάτων.</string>
+    <string name="missing_permissions_title_to_start_conf_call">Η κλήση δεν ήταν δυνατή</string>
+    <string name="missing_permissions_warning">Κάποια χαρακτηριστικά μπορεί να μην είναι διαθέσιμα λόγω ελλιπών δικαιωμάτων…</string>
+    <string name="network_error">Σφάλμα δικτύου</string>
+    <string name="no">ΟΧΙ</string>
+    <string name="no_conversation_placeholder">Δεν υπάρχουν συζητήσεις</string>
+    <string name="no_group_placeholder">Δεν υπάρχουν ομάδες</string>
+    <string name="no_public_room_placeholder">Δεν υπάρχουν δημόσια δωμάτια</string>
+    <string name="no_result_placeholder">Δεν βρέθηκαν αποτελέσματα</string>
+    <string name="no_room_placeholder">Δεν υπάρχουν δωμάτια</string>
+    <string name="normal">Κανονικό</string>
+    <string name="notice_answered_call">Ο/Η %s απάντησε στην κλήση.</string>
+    <string name="notice_avatar_changed_too">(έγινε αλλαγή και του εικονιδίου χρήστη)</string>
+    <string name="notice_avatar_url_changed">Ο/Η %1$s άλλαξε εικονίδιο χρήστη</string>
+    <string name="notice_crypto_error_unkwown_inbound_session_id">Η συσκευή του/της αποστολέα δεν μας έχει στείλει τα κλειδιά για αυτό το μήνυμα.</string>
+    <string name="notice_crypto_unable_to_decrypt">** Αδυναμία αποκρυπτογράφησης: %s **</string>
+    <string name="notice_display_name_changed_from">Ο/Η %1$s άλλαξε το εμφανιζόμενό του/της όνομα από %2$s σε %3$s</string>
+    <string name="notice_display_name_removed">Ο/Η %1$s αφαίρεσε το εμφανιζόμενό του/της όνομα (%2$s)</string>
+    <string name="notice_display_name_set">Ο/Η %1$s άλλαξε το εμφανιζόμενό του/της όνομα σε %2$s</string>
+    <string name="notice_end_to_end">Ο/Η %1$s ενεργοποίησε την κρυπτογράφηση απ\'άκρη σ\'άκρη (%2$s)</string>
+    <string name="notice_ended_call">Ο/Η %s τερμάτισε την κλήση.</string>
+    <string name="notice_event_redacted_by">" από τον/την %1$s"</string>
+    <string name="notice_event_redacted_reason">" [λόγος: %1$s]"</string>
+    <string name="notice_made_future_room_visibility">Ο/Η %1$s κατέστησε το μελλοντικό ιστορικό του δωματίου ορατό στον/στην %2$s</string>
+    <string name="notice_placed_video_call">Ο/Η %s πραγματοποίησε μια κλήση βίντεο.</string>
+    <string name="notice_placed_voice_call">Ο/Η %s πραγματοποίησε μια κλήση ήχου.</string>
+    <string name="notice_profile_change_redacted">Ο/Η %1$s ανανέωσε το προφίλ του/της %2$s</string>
+    <string name="notice_requested_voip_conference">Ο/Η %1$s ζήτησε μια VoIP διάσκεψη</string>
+    <string name="notice_room_ban">Ο/Η %1$s απέκλεισε τον/την %2$s</string>
+    <string name="notice_room_invite">Ο/Η %1$s προσκάλεσε τον/την %2$s</string>
+    <string name="notice_room_invite_no_invitee">Η πρόσκληση του/της %s</string>
+    <string name="notice_room_invite_you">Ο/Η %1$s σας προσκάλεσε</string>
+    <string name="notice_room_join">Ο/Η %1$s εισήλθε στο δωμάτιο</string>
+    <string name="notice_room_kick">Ο/Η %1$s έδιωξε τον/την %2$s</string>
+    <string name="notice_room_leave">Ο/Η %1$s αποχώρησε</string>
+    <string name="notice_room_name_changed">Ο/Η %1$s άλλαξε το όνομα του δωματίου σε: %2$s</string>
+    <string name="notice_room_name_removed">Ο/Η %1$s αφαίρεσε το όνομα του δωματίου</string>
+    <string name="notice_room_reject">Ο/Η %1$s απέρριψε την πρόσκληση</string>
+    <string name="notice_room_third_party_invite">Ο/Η %1$s έστειλε μία πρόσκληση στον/στην %2$s για να εισέλθει στο δωμάτιο</string>
+    <string name="notice_room_third_party_registered_invite">Ο/Η %1$s δέχτηκε την πρόσκληση για το %2$s</string>
+    <string name="notice_room_topic_removed">Ο/Η %1$s αφαίρεσε το θέμα του δωματίου</string>
+    <string name="notice_room_visibility_invited">όλα τα μέλη του δωματίου, από την στιγμή που προσκλήθηκαν.</string>
+    <string name="notice_room_visibility_joined">όλα τα μέλη του δωματίου από την στιγμή που εισήλθαν.</string>
+    <string name="notice_room_visibility_shared">όλα τα μέλη του δωματίου.</string>
+    <string name="notice_room_visibility_unknown">άγνωστος/η (%s).</string>
+    <string name="notice_room_visibility_world_readable">οποιοσδήποτε.</string>
+    <string name="notice_room_withdraw">Ο/Η %1$s απέσυρε την πρόσκληση του/της %2$s</string>
+    <string name="notice_topic_changed">Ο/Η %1$s άλλαξε το θέμα σε: %2$s</string>
+    <string name="notice_voip_finished">Η VoIP διάσκεψη έληξε</string>
+    <string name="notice_voip_started">Η VoIP διάσκεψη ξεκίνησε</string>
+    <string name="notification_noisy_notifications">Ηχητικές ειδοποιήσεις</string>
+    <string name="notification_silent_notifications">Αθόρυβες ειδοποιήσεις</string>
+    <string name="notification_sync_in_progress">Γίνεται συγχρονισμός</string>
+    <string name="notification_unread_notified_messages_in_room">%1$s στο %2$s</string>
+    <string name="offline">Εκτός σύνδεσης</string>
+    <string name="ok">Εντάξει</string>
+    <string name="ongoing_conference_call_video">βίντεο</string>
+    <string name="ongoing_conference_call_voice">ήχος</string>
+    <string name="open_settings">Άνοιγμα ρυθμίσεων</string>
+    <string name="option_send_files">Αποστολή αρχείων</string>
+    <string name="or">ή</string>
+    <string name="permalink">Μόνιμος σύνδεσμος</string>
+    <string name="plus_x">+%d</string>
+    <string name="quote">Παράθεση</string>
+    <string name="read_receipt">Αναγνωσμένο</string>
+    <string name="reason_colon">Λόγος: %1$s</string>
+    <string name="reject">Απόρριψη</string>
+    <string name="remove">Αφαίρεση</string>
+    <string name="rename">Μετονομασία</string>
+    <string name="reply_to_a_file">έστειλε ένα αρχείο.</string>
+    <string name="reply_to_a_video">έστειλε ένα βίντεο.</string>
+    <string name="reply_to_an_audio_file">έστειλε ένα αρχείο ήχου.</string>
+    <string name="reply_to_an_image">έστειλε μία εικόνα.</string>
+    <string name="report_content">Αναφορά περιεχομένου</string>
+    <string name="resend">Αποστολή ξανά</string>
+    <string name="resource_limit_contact_action">Επικοινωνήστε με τον διαχειριστή</string>
+    <string name="resources_country_code">ΕL</string>
+    <string name="resources_language">el</string>
+    <string name="room_details_files">Αρχεία</string>
+    <string name="room_displayname_empty_room">Άδειο δωμάτιο</string>
+    <string name="room_displayname_invite_from">Πρόσκληση από %s</string>
+    <string name="room_displayname_room_invite">Πρόσκληση στο δωμάτιο</string>
+    <string name="room_displayname_two_members">%1$s και %2$s</string>
+    <string name="room_error_join_failed_empty_room">Δεν είναι δυνατή ακόμα η επανείσοδος σε ένα άδειο δωμάτιο.</string>
+    <string name="room_info_room_name">Όνομα δωματίου</string>
+    <string name="room_info_room_topic">Θέμα δωματίου</string>
+    <string name="room_recents_start_chat">Έναρξη συνομιλίας</string>
+    <string name="room_settings_addresses_pref_title">Διευθύνσεις</string>
+    <string name="room_settings_category_advanced_title">Προχωρημένες</string>
+    <string name="room_settings_direct_chat">Απευθείας συνομιλία</string>
+    <string name="room_settings_forget">Παράλειψη</string>
+    <string name="room_settings_read_history_entry_anyone">Οποιοσδήποτε</string>
+    <string name="room_settings_room_access_rules_pref_title">Πρόσβαση στο δωμάτιο</string>
+    <string name="room_settings_room_name">Όνομα δωματίου</string>
+    <string name="room_settings_room_notifications_title">Ειδοποιήσεις</string>
+    <string name="room_settings_room_photo">Φωτογραφία δωματίου</string>
+    <string name="room_settings_room_tag">Ετικέτα δωματίου</string>
+    <string name="room_settings_tag_pref_entry_favourite">Αγαπημένο</string>
+    <string name="room_settings_tag_pref_entry_low_priority">Χαμηλής προτεραιότητας</string>
+    <string name="room_settings_tag_pref_entry_none">Καμία</string>
+    <string name="room_settings_topic">Θέμα</string>
+    <string name="room_tombstone_continuation_description">Αυτό το δωμάτιο είναι συνέχεια μιας άλλης συζήτησης</string>
+    <string name="room_tombstone_continuation_link">Η συζήτηση συνεχίζεται εδώ</string>
+    <string name="room_tombstone_predecessor_link">Πατήστε εδώ για να δείτε παλαιότερα μηνύματα</string>
+    <string name="rooms">Δωμάτια</string>
+    <string name="rooms_directory_header">Ευρετήριο</string>
+    <string name="rooms_header">Δωμάτια</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="search">Αναζήτηση</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="select_room_directory">Επιλέξτε ένα ευρετήριο δωματίων</string>
+    <string name="send">Αποστολή</string>
+    <string name="send_bug_report">Αναφορά σφάλματος</string>
+    <string name="send_bug_report_alert_message">Φαίνεται να κουνάτε το τηλέφωνο από εκνευρισμό. Θέλετε να ανοίξετε την οθόνη αναφοράς σφάλματος;</string>
+    <string name="send_bug_report_description">Παρακαλούμε περιγράψτε το σφάλμα. Τι κάνατε; Τι περιμένατε να συμβεί; Τι έγινε τελικά;</string>
+    <string name="send_bug_report_description_in_english">Εφόσον είναι δυνατό, παρακαλώ γράψτε την περιγραφή στα αγγλικά.</string>
+    <string name="send_bug_report_failed">Η αποστολή της αναφοράς σφάλματος απέτυχε (%s)</string>
+    <string name="send_bug_report_include_crash_logs">Αποστολή καταγραφών σφαλμάτων</string>
+    <string name="send_bug_report_include_logs">Αποστολή πληροφοριών</string>
+    <string name="send_bug_report_logs_description">Προκειμένου να διαγνωστούν προβλήματα, τα αρχεία καταγραφής από αυτόν τον πελάτη θα σταλούν με αυτήν την αναφορά σφάλματος. Αν προτιμάτε να στείλετε μόνο το παραπάνω κείμενο, απενεργοποιήστε:</string>
+    <string name="send_bug_report_placeholder">Περιγράψτε το πρόβλημά σας εδώ</string>
+    <string name="send_bug_report_progress">Πρόοδος (%s%%)</string>
+    <string name="send_bug_report_rage_shake">Κουνήστε το τηλέφωνο για αναφορά σφάλματος</string>
+    <string name="send_bug_report_sent">Η αναφορά σφάλματος εστάλη επιτυχώς</string>
+    <string name="settings_add_email_address">Προσθήκη διεύθυνσης ηλεκτρονικού ταχυδρομείου</string>
+    <string name="settings_add_phone_number">Προσθήκη αριθμού τηλεφώνου</string>
+    <string name="settings_analytics">Στατιστικά χρήσης</string>
+    <string name="settings_app_info_link_title">Πληροφορίες εφαρμογής</string>
+    <string name="settings_call_category">Κλήσεις</string>
+    <string name="settings_call_ringtone_dialog_title">Επιλέξτε ήχο κλήσης:</string>
+    <string name="settings_call_ringtone_title">Ήχος εισερχομένων κλήσεων</string>
+    <string name="settings_call_ringtone_use_riot_ringtone">Χρήση του προεπιλεγμένου ήχου κλήσης του Riot για τις εισερχόμενες κλήσεις</string>
+    <string name="settings_change_password">Αλλαγή κωδικού</string>
+    <string name="settings_confirm_password">Επιβεβαίωση κωδικού</string>
+    <string name="settings_deactivate_account_section">Απενεργοποίηση λογαριασμού</string>
+    <string name="settings_deactivate_my_account">Απενεργοποίηση του λογαριασμού μου</string>
+    <string name="settings_devices_list">Συσκευές</string>
+    <string name="settings_enable_all_notif">Ενεργοποίηση ειδοποιήσεων για τον λογαριασμό</string>
+    <string name="settings_fail_to_update_password">Η ανανέωση κωδικού απέτυχε</string>
+    <string name="settings_home_display">Αρχική σελίδα</string>
+    <string name="settings_inline_url_preview">Προεπισκόπιση συνδέσμων</string>
+    <string name="settings_interface_language">Γλώσσα</string>
+    <string name="settings_logged_in">Συνδεδεμένος/η ως</string>
+    <string name="settings_messages_sent_by_bot">Μηνύματα από bots</string>
+    <string name="settings_new_password">Νέος κωδικός</string>
+    <string name="settings_old_password">Προηγούμενος κωδικός</string>
+    <string name="settings_opt_in_of_analytics">Αποστολή στατιστικών χρήσης</string>
+    <string name="settings_opt_in_of_analytics_ok">Ναι, θέλω να βοηθήσω!</string>
+    <string name="settings_password">Κωδικός</string>
+    <string name="settings_password_updated">Ο κωδικός σας ανανεώθηκε</string>
+    <string name="settings_phone_number">Τηλέφωνο</string>
+    <string name="settings_phone_number_code">Κωδικός</string>
+    <string name="settings_phone_number_country_error">Παρακαλώ επιλέξτε μία χώρα</string>
+    <string name="settings_phone_number_country_label">Χώρα</string>
+    <string name="settings_phone_number_label">Αριθμός τηλεφώνου</string>
+    <string name="settings_select_country">Επιλέξτε μία χώρα</string>
+    <string name="settings_select_language">Επιλέξτε γλώσσα</string>
+    <string name="settings_send_markdown">Μορφοποίηση Markdown</string>
+    <string name="settings_theme">Θέμα</string>
+    <string name="settings_troubleshoot_diagnostic_running_status">Εκτελείται… (%1$d από %2$d)</string>
+    <string name="settings_troubleshoot_test_account_settings_failed">Οι ειδοποιήσεις είναι απενεργοποιημένες για τον λογαριασμό σας.
+Παρακαλώ ελέγξτε τις ρυθμίσεις λογαριασμού.</string>
+    <string name="settings_troubleshoot_test_account_settings_quickfix">Ενεργοποίηση</string>
+    <string name="settings_troubleshoot_test_account_settings_success">Οι ειδοποιήσεις είναι ενεργοποιημένες για τον λογαριασμό σας.</string>
+    <string name="settings_troubleshoot_test_account_settings_title">Ρυθμίσεις λογαριασμού.</string>
+    <string name="settings_troubleshoot_test_device_settings_failed">Οι ειδοποιήσεις δεν επιτρέπονται για αυτή την συσκευή.
+Παρακαλώ ελέγξτε τις ρυθμίσεις του Riot.</string>
+    <string name="settings_troubleshoot_test_device_settings_quickfix">Ενεργοποίηση</string>
+    <string name="settings_troubleshoot_test_device_settings_success">Οι ειδοποιήσεις είναι ενεργοποιημένες για αυτή την συσκευή.</string>
+    <string name="settings_troubleshoot_test_device_settings_title">Ρυθμίσεις συσκευής.</string>
+    <string name="settings_troubleshoot_test_system_settings_title">Ρυθμίσεις συστήματος.</string>
+    <string name="show_info_area_always">Πάντα</string>
+    <string name="show_info_area_messages_and_errors">Για μηνύματα και σφάλματα</string>
+    <string name="show_info_area_only_errors">Μόνο για σφάλματα</string>
+    <string name="small">Μικρό</string>
+    <string name="startup_notification_fdroid_battery_optim_button_grant">Παραχώρηση άδειας</string>
+    <string name="startup_notification_privacy_button_grant">Παραχώρηση άδειας</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_theme">Θέμα Status.im</string>
+    <string name="store_short_description">Καλωσορίσατε στο Riot.im: έναν νέο κόσμο ελεύθερης επικοινωνίας!</string>
+    <string name="summary_message">%1$s: %2$s</string>
+    <string name="summary_user_sent_image">Ο/Η %1$s έστειλε μια εικόνα.</string>
+    <string name="summary_user_sent_sticker">Ο/Η %1$s έστειλε ένα αυτοκόλλητο.</string>
+    <string name="system_alerts_header">Ειδοποιήσεις συστήματος</string>
+    <string name="tab_title_search_people">ΑΤΟΜΑ</string>
+    <string name="tiny">Πολύ μικρό</string>
+    <string name="title_activity_bug_report">Αναφορά σφάλματος</string>
+    <string name="title_activity_choose_sticker">Αποστολή αυτοκόλλητου</string>
+    <string name="title_activity_group_details">Πληροφορίες κοινότητας</string>
+    <string name="title_activity_historical">Ιστορικό</string>
+    <string name="title_activity_home">Μηνύματα</string>
+    <string name="title_activity_member_details">Πληροφορίες μέλους</string>
+    <string name="title_activity_room">Δωμάτιο</string>
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+    <string name="today">Σήμερα</string>
+    <string name="unable_to_send_message">Αποτυχία αποστολής μηνύματος</string>
+    <string name="unknown_devices_alert_title">Το δωμάτιο περιέχει άγνωστες συσκευές</string>
+    <string name="user_directory_header">Ευρετήριο χρηστών</string>
+    <string name="username">Όνομα χρήστη</string>
+    <string name="video_call_in_progress">Κλήση βίντεο σε εξέλιξη…</string>
+    <string name="view_decrypted_source">Προβολή του αποκρυπτογραφημένου κώδικα</string>
+    <string name="view_source">Προβολή κώδικα</string>
+    <string name="widget_integration_room_not_visible">Το δωμάτιο %s δεν είναι ορατό.</string>
+    <string name="x_plus">%d+</string>
+    <string name="yes">ΝΑΙ</string>
+    <string name="yesterday">Χθές</string>
+</resources>

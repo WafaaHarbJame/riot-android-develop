@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":82600,"versionName":"0.8.26-dev","enabled":true,"outputFile":"vector-app-debug.apk","fullName":"appDebug","baseName":"app-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"ms.messageapp.alpha","split":"","minSdkVersion":"23"}}]

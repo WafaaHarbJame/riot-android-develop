@@ -1,0 +1,10 @@
+#Thu Apr 04 00:10:32 IDT 2019
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=E\:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\.build\\vector\\intermediates\\transforms\\dexMerger\\app\\debug\\1
+base.1=E\:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\.build\\vector\\intermediates\\transforms\\dexMerger\\app\\debug\\1
+base.0=E\:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\.build\\vector\\intermediates\\transforms\\dexMerger\\app\\debug\\0

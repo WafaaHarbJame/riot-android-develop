@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\.build\\vector\\intermediates\\incremental\\mergeAppDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "E:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\vector\\src\\main\\res\\values-ldrtl\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "159"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "208"
+                    }
+                },
+                {
+                    "source": "E:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\vector\\src\\main\\res\\values-ldrtl\\integers.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "49",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\.build\\vector\\intermediates\\incremental\\mergeAppDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\wafaaa\\riot-android-develop (1)\\riot-android-develop\\vector\\src\\main\\res\\values-w480dp\\styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "152",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "208"
+                    }
+                }
+            ]
+        }
+    ]
+}
